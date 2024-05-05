@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Personal Journal</string>
+
+    <string-array name="option">
+        <item>Sun</item>
+        <item>Rain</item>
+        <item>Snow</item>
+    </string-array>
+</resources>
